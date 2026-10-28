@@ -1,0 +1,17 @@
+{
+  "name": "algoritmo-gestion-inventario",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema de Gestión de Inventario con Diagrama de Flujo Interactivo y Modos Web / CLI",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start:cli": "node inventario.js",
+    "start:py": "python3 inventario.py"
+  },
+  "devDependencies": {
+    "vite": "^8.3.4"
+  }
+}
